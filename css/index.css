@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:  linear-gradient(#000810a4 0%, #020b3b9d 100%),url(../assets/The-Prestige-Image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    color: #fff;
+}
+.body-main{
+    margin-top: 6rem;
+}
